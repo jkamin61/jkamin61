@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning MERN stack
+🌱 I’m currently learning MERN stack</br>
 First-year computer science student at the Polish Japanese Academy of Computer Techniques. Participant of GOIT full-stack developer course.
 
 ## 🌐 Socials:
