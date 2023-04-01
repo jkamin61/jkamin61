@@ -1,6 +1,6 @@
 # 💫 About Me:
 🌱 I’m currently learning MERN stack
-
+First-year computer science student at the Polish Japanese Academy of Computer Techniques. Participant of GOIT full-stack developer course.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/juliusz-kamiński-1b2aa7177/) 
