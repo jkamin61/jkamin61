@@ -1,5 +1,5 @@
 # 💫 About Me:
-First-year computer science student at the Polish Japanese Academy of Computer Techniques. Participant in GOIT full-stack developer course.</br>
+Computer science student at the Polish Japanese Academy of Computer Techniques. Participant in GOIT full-stack developer course.</br>
 🌱 I’m currently learning MERN stack
 
 ## 🌐 Socials:
