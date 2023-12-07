@@ -1,6 +1,7 @@
 # 💫 About Me:
 Computer science student at the Polish Japanese Academy of Computer Techniques. Participant in GOIT full-stack developer course.</br><br>🌱MERN stack
 
+Check out my perosonal website: https://jkamin-dev.netlify.app 🔥
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliusz-kamiński/) 
