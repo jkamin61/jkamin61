@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Julius</h1>
 <h3 align="center">A passionate fullstack developer from Poland. Computer science student at Polish Japanese Academy of Information Technology.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jkamin61&label=Profile%20views&color=0e75b6&style=flat" alt="jkamin61" /> </p>
+- 🔭 I’m currently working on: [So Yummy](https://github.com/jkamin61/so-yummy)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jkamin61" alt="jkamin61" /></a> </p>
+- 📫 How to reach me: **www.linkedin.com/in/jkamin61**
 
-- 🔭 I’m currently working on [So Yummy](https://github.com/jkamin61/so-yummy)
-
-- 📫 How to reach me **www.linkedin.com/in/jkamin61**
-
-- 📄 Know about my experiences [https://jkamin-dev.netlify.app](https://jkamin-dev.netlify.app)
+- 📄 Know about my experiences: [https://jkamin-dev.netlify.app](https://jkamin-dev.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,4 +19,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jkamin61&show_icons=true&locale=en&layout=compact" alt="jkamin61" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jkamin61&show_icons=true&locale=en" alt="jkamin61" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jkamin61&show_icons=true&locale=en" alt="jkamin61" /></p> -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jkamin61&label=Profile%20views&color=0e75b6&style=flat" alt="jkamin61" /> </p>
