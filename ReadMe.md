@@ -88,7 +88,7 @@
 </div>
 
 ###
-
+<!--
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
@@ -99,7 +99,7 @@
 </div>
 
 ###
-
+-->
 <!-- <h1 align="center">Hi 👋, I'm Julius</h1>
 <h3 align="center">A passionate fullstack developer from Poland. Computer science student at Polish Japanese Academy of Information Technology.</h3>
 
