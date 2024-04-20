@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I am a Full-stack Developer from Poland<br><br>- 🔭 I’m working as a freelancer and doing an internship at Paidwork<br>- 📚 I'm currently learning Blockchain development<br>- ⚡ In my free time I deep dive into programming concepts<br><br>Checkout my personal website here:<br><br>https://jkamin-dev.netlify.app</p>
+<p align="left">I am a Full-stack Developer from Poland<br><br>- 🔭<br>Checkout my personal website here:<br><br>https://jkamin-dev.netlify.app</p>
 
 ###
 
