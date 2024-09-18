@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I am a Full-stack Developer from Poland<br><br>Check out my personal website here:<br><br>https://jkamin-dev.netlify.app</p>
+<p align="left">I am a Software Developer from Poland<br><br>Check out my personal website here:<br><br>https://jkamin-dev.netlify.app</p>
 
 ###
 
