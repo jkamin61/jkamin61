@@ -39,7 +39,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<!-- <h3 align="left">🛠 Language and tools</h3>
 
 ###
 
@@ -85,7 +85,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-</div>
+</div> -->
 
 ###
 <!--
